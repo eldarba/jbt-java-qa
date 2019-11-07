@@ -3,13 +3,13 @@ package c.random;
 public class Targil {
 
 	/*
-	 * צרו חמישה מספרים אקראיים בתחום אפס ל מאה,
+	 * create 5 numbers in the range 0 to 100
 	 * 
-	 * הדפיסו אותם,
+	 * print each of them
 	 * 
-	 * את סכומם
+	 * print the sum
 	 * 
-	 * ואת הממוצע
+	 * print the average
 	 */
 
 	public static void main(String[] args) {
@@ -34,7 +34,7 @@ public class Targil {
 		// calculate and print sum
 		int sum = a + b + c + d + e;
 		System.out.println("Sum = " + sum);
-		
+
 		// calculate and print average
 		double avg = sum / 5D;
 		System.out.println("Average = " + avg);
