@@ -18,9 +18,10 @@ public class Demo1 {
 		System.out.println("odd: " + x);
 
 	}
-	
+
 	/*
-	 * print random numbers in the range 0 to 100 until a number that is a multiplication of 5 comes up.
+	 * print random numbers in the range 0 to 100 until a number that is a
+	 * multiplication of 5 comes up.
 	 */
 
 }
